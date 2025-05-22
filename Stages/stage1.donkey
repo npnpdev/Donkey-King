@@ -1,0 +1,37 @@
+NumOfPlatforms=7
+NumOfLedders=11
+NumOfStaticBarrels=4
+NumOfMonkeys=1
+NumOfPrincesses=1
+NumOfTrophies=1
+// Platforms
+Platform,0,584,800,16
+Platform,0,504,736,16
+Platform,64,424,736,16
+Platform,0,344,736,16
+Platform,64,264,736,16
+Platform,0,184,736,16
+Platform,192,104,400,16
+// Ledders
+Ladder,688,504,16,80
+Ladder,248,424,16,80
+Ladder,80,424,16,80
+Ladder,400,344,16,80
+Ladder,688,344,16,80
+Ladder,200,264,16,80
+Ladder,80,264,16,80
+Ladder,688,184,16,80
+Ladder,576,104,16,80
+Ladder,176,104,16,80
+Ladder,144,104,16,80
+// StaticBarrels
+StaticBarrel,0,152,32,32
+StaticBarrel,32,152,32,32
+StaticBarrel,0,120,32,32
+StaticBarrel,32,120,32,32
+// Monkeys
+Monkey,64,120,64,64
+// Princesses
+Princess,192,72,32,32
+// Trophies
+Trophy,400,168,16,16
